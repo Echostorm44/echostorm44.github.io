@@ -46,8 +46,7 @@ defaults:
     values:
       excerpt_separator:  <!--more-->
       layout: post
-
-bundler_dir: vendor/bundle
+      
 
 # Sidebar link settings
 sidebar_home_link:  true
