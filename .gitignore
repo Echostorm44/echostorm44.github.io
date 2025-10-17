@@ -48,3 +48,5 @@ _config.dev.yml
 .vscode
 *.gem
 /.vs/EchoBlog/FileContentIndex
+/.vs/EchoBlog/CopilotIndices/17.14.1231.31060/CodeChunks.db-wal
+/.vs/EchoBlog/CopilotIndices/17.14.1231.31060/SemanticSymbols.db-wal
