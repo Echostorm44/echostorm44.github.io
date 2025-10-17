@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Rum and Code
 tagline:          'In Code Veritas'
 description:      'Programming, musings, projects'
-url:              https://echostorm44.github.io
+url:              'https://echostorm44.github.io'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
