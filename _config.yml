@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Rum and Code
 tagline:          'In Code Veritas'
-description:      'Programming, musings, projects '
+description:      'Programming, musings, projects'
 url:              https://echostorm44.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
