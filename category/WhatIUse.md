@@ -90,9 +90,8 @@ This is my collection of essential software and tools for setting up new systems
 - **[ShipThatCode](https://github.com/Echostorm44/ShipThatCode)** - Utility to create installers and updaters for .NET projects using GitHub for hosting
 - **[Fiddler](https://www.telerik.com/download/fiddler)** - Web debugging proxy tool for logging and inspecting HTTP/HTTPS traffic
 - **[DevToys](https://github.com/veler/DevToys)** - Swiss Army knife for developers with various utilities and formatters
+- **[Localtunnel](https://localtunnel.github.io/www/)** - Expose your localhost to the world for testing and sharing.  Note you can do this in visual studio for a single project now.  This project is still use useful for emulators etc though.
 - **[ngrok](https://ngrok.com/)** - Secure introspectable tunnels to localhost for testing webhooks and APIs
-- **[ngrok Inspect](http://localhost:4040/inspect/http)** - Web interface for inspecting HTTP traffic through ngrok tunnels
-- **[Localtunnel](https://localtunnel.github.io/www/)** - Expose your localhost to the world for testing and sharing
 - **[Eclipse Mosquitto](https://mosquitto.org/download/)** - Open-source MQTT message broker for IoT and messaging applications
 - **[MQTT Explorer](https://mqtt-explorer.com/)** - All-round MQTT client that provides a structured topic overview
 
