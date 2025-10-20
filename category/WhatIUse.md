@@ -106,4 +106,3 @@ This is my collection of essential software and tools for setting up new systems
 - **[DB Browser for SQLite](https://sqlitebrowser.org/dl/)** - Visual tool to create, design, and edit SQLite database files
 - **[How to Configure a SQL Server Alias](https://mariusschulz.com/blog/how-to-configure-a-sql-server-alias-for-a-named-instance-on-a-development-machine)** - Tutorial on configuring SQL Server aliases for named instances
 - **[Working with sql client aliases](https://dbatools.io/aliases/)** - Guide to working with SQL client aliases using the dbatools PowerShell module
-- **[ApexSQL Plan](https://www.apexsql.com/sql-tools-plan.aspx)** - SQL execution plan viewing and analysis tool from ApexSQL
