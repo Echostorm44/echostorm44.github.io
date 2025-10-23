@@ -49,3 +49,4 @@ _config.dev.yml
 *.gem
 /.vs/EchoBlog/FileContentIndex
 /.vs/EchoBlog/CopilotIndices
+.vs/EchoBlog/CopilotIndices

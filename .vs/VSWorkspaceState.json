@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
     "\\.github\\workflows",
+    "\\assets\\css",
     "\\category",
-    "\\_includes",
     "\\_posts"
   ],
-  "SelectedNode": "\\_includes\\head.html",
+  "SelectedNode": "\\category\\edc.md",
   "PreviewInSolutionExplorer": false
 }
