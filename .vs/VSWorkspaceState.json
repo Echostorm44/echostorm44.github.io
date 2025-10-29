@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github\\workflows",
-    "\\assets\\css",
     "\\category",
-    "\\_posts"
+    "\\_posts",
+    "\\_sass\\hydeout"
   ],
-  "SelectedNode": "\\category\\edc.md",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
