@@ -16,10 +16,21 @@ These are online tools that I've been using for long enough to recommend.
 - **[MermaidViewer.com](https://www.mermaidviewer.com/)** - A pretty good free Mermaid live editor.
 - **[Mermaid-drawing.com](https://mermaid-drawing.com/)** - Another pretty good Mermain live editor
 
-#### Regex
+#### Markdown
+
+- **[stackedit](https://stackedit.io/app#)** - An almost perfect online markdown editor. 
+
+
+#### Regex & Text Manipulation
 
 - **[Regex Storm](http://regexstorm.net/tester/)** - Great site for testing and debugging C# regular expressions.
 - **[Regex 101](https://regex101.com/)** - Another great site for testing and debugging regular expressions in lesser languages :wink:.
+- **[Nimble Text](https://nimbletext.com/)** - A great online text manipulation tool that supports regex replacements, case changes, sorting, and more.
+
+#### Conversion Tools	
+
+- **[json2csharp](https://json2csharp.com/)** - Great site for converting JSON to C# classes.
+
 
 #### Online Compilers / Pens
 
