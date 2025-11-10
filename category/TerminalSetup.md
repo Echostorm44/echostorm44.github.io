@@ -43,6 +43,7 @@ Run this once: Unblock-File -Path $PROFILE
 
 <img width="410" height="102" alt="image" src="https://github.com/user-attachments/assets/4c2a14f6-d271-42c7-8195-797e133e580f" />
 
+<img width="1585" height="728" alt="image" src="https://github.com/user-attachments/assets/74ccd4c1-4b45-4160-b77a-15979984f10e" />
 
 
 
