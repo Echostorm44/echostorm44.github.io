@@ -55,7 +55,9 @@ Ok, now we'll install some terminal icons via Powershell.  Open a new Powershell
 <img width="1082" height="207" alt="image" src="https://github.com/user-attachments/assets/f3f33223-12c4-4931-ae97-c69bcb16ff78" />
 
 Create a folder in your Documents folder called PowerShell 
+
 <img width="315" height="294" alt="image" src="https://github.com/user-attachments/assets/c5b4ec5a-69d6-4ad2-8e32-2dc80dd86357" />
+
 Put the attached file Microsoft.PowerShell_profile.ps1 into it but remember to fix the path inside. 
 [Microsoft.PowerShell_profile.ps1](https://github.com/Echostorm44/NewPcInstallStuff/blob/main/TerminalPimping/Microsoft.PowerShell_profile.ps1) 
 The contents of the file are:
@@ -64,6 +66,7 @@ oh-my-posh --init --shell pwsh --config C:\OhMyPoshTheme\AdamCustom.json | Invok
 Import-Module -Name Terminal-Icons
 [console]::InputEncoding = [console]::OutputEncoding = [System.Text.UTF8Encoding]::new()
 ```
+
 <img width="351" height="218" alt="image" src="https://github.com/user-attachments/assets/916c1478-4dc6-4d6c-9979-e38f0b019087" />
 
 
@@ -81,7 +84,11 @@ Unblock-File -Path $PROFILE
 
 <img width="410" height="102" alt="image" src="https://github.com/user-attachments/assets/4c2a14f6-d271-42c7-8195-797e133e580f" />
 
+
 Once that is all complete you should be able to open a new tab and it should look glorious
+
+
+<img width="1592" height="708" alt="image" src="https://github.com/user-attachments/assets/e440b8a3-6c3e-4808-a2b1-7f3e09691e52" />
 
 
 For cmd.exe, which you'll still need from time to time, the following steps are required to enable Unicode and Emoji support.
