@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Code\\EchoBlog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\EchoBlog\\category\\OnlineTools.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:category\\OnlineTools.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\EchoBlog\\category\\TerminalSetup.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:category\\TerminalSetup.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\EchoBlog\\category\\WhatIUse.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:category\\WhatIUse.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\EchoBlog\\category\\OnlineTools.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:category\\OnlineTools.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OnlineTools.md",
               "DocumentMoniker": "C:\\Code\\EchoBlog\\category\\OnlineTools.md",
               "RelativeDocumentMoniker": "category\\OnlineTools.md",
@@ -101,9 +105,23 @@
               "RelativeDocumentMoniker": "category\\WhatIUse.md",
               "ToolTip": "C:\\Code\\EchoBlog\\category\\WhatIUse.md",
               "RelativeToolTip": "category\\WhatIUse.md",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-17T19:05:34.03Z"
+              "WhenOpened": "2025-10-17T19:05:34.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TerminalSetup.md",
+              "DocumentMoniker": "C:\\Code\\EchoBlog\\category\\TerminalSetup.md",
+              "RelativeDocumentMoniker": "category\\TerminalSetup.md",
+              "ToolTip": "C:\\Code\\EchoBlog\\category\\TerminalSetup.md",
+              "RelativeToolTip": "category\\TerminalSetup.md",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-10T19:21:43.537Z",
+              "EditorCaption": ""
             }
           ]
         }
