@@ -1,3 +1,8 @@
+---
+layout: category
+title: Terminal
+---
+
 Powershell 5 is for babies and communists. 
 Real developers run Windows Terminal with Powershell 7 and they pimp it out hard.
 
