@@ -21,7 +21,27 @@ Screenshots here:
 
 <img width="819" height="553" alt="image" src="https://github.com/user-attachments/assets/ec2ad643-0e2b-421d-b859-cd96468b5126" />
 
+<img width="778" height="529" alt="image" src="https://github.com/user-attachments/assets/6e51d393-63c9-414e-ab03-7dd474b57c73" />
 
+<img width="792" height="642" alt="image" src="https://github.com/user-attachments/assets/fbe6cb70-d9a7-4833-9fda-46b3612d09d3" />
+
+<img width="768" height="489" alt="image" src="https://github.com/user-attachments/assets/528c6a96-2d37-423c-b10f-0962d9725edb" />
+
+<img width="1082" height="207" alt="image" src="https://github.com/user-attachments/assets/f3f33223-12c4-4931-ae97-c69bcb16ff78" />
+
+Create a folder in your Documents folder called PowerShell and put the attached file Microsoft.PowerShell_profile.ps1 into it but remember to fix the path inside. I've attached my theme or you can use one from the link below.
+
+<img width="351" height="218" alt="image" src="https://github.com/user-attachments/assets/916c1478-4dc6-4d6c-9979-e38f0b019087" />
+
+<img width="463" height="175" alt="image" src="https://github.com/user-attachments/assets/6f1cee45-25fa-4734-a9bc-a2cd2e0413ee" />
+
+
+<img width="315" height="294" alt="image" src="https://github.com/user-attachments/assets/c5b4ec5a-69d6-4ad2-8e32-2dc80dd86357" />
+
+
+Run this once: Unblock-File -Path $PROFILE
+
+<img width="410" height="102" alt="image" src="https://github.com/user-attachments/assets/4c2a14f6-d271-42c7-8195-797e133e580f" />
 
 
 
