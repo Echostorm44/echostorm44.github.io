@@ -36,6 +36,8 @@ ok now lets install oh my posh via winget
 
 Once that is done we can use it to install a special font, sometimes called a nerd font, which I hate but it is what it is.  I think FiraCode is a pretty good choice but you can obviously download a bunch and see what works best for you.
 
+```oh-my-posh font install```
+
 <img width="415" height="320" alt="image" src="https://github.com/user-attachments/assets/2ba8109a-3339-4d44-9e34-399fc78a59fa" />
 
 When that is done lets pop into settings and make a few tweaks.  Click the dropdown next to the new tab button, click settings and lets change the default profile to Powershell, and make it match the screenshot.
@@ -55,6 +57,7 @@ We want to set the color scheme to One Half Dark, set the font face to FiraCode 
 <img width="768" height="489" alt="image" src="https://github.com/user-attachments/assets/528c6a96-2d37-423c-b10f-0962d9725edb" />
 
 Ok, now we'll install some terminal icons via Powershell.  Open a new Powershell tab and run the following command:
+
 ```Install-Module -Name Terminal-Icons -Repository PSGallery```
 
 <img width="1082" height="207" alt="image" src="https://github.com/user-attachments/assets/f3f33223-12c4-4931-ae97-c69bcb16ff78" />
@@ -66,7 +69,7 @@ Create a folder in your Documents folder called PowerShell
 Put the attached file Microsoft.PowerShell_profile.ps1 into it but remember to fix the path inside. 
 [Microsoft.PowerShell_profile.ps1](https://github.com/Echostorm44/NewPcInstallStuff/blob/main/TerminalPimping/Microsoft.PowerShell_profile.ps1) 
 The contents of the file are:
-```powershell
+```
 oh-my-posh --init --shell pwsh --config C:\OhMyPoshTheme\AdamCustom.json | Invoke-Expression
 Import-Module -Name Terminal-Icons
 [console]::InputEncoding = [console]::OutputEncoding = [System.Text.UTF8Encoding]::new()
@@ -79,10 +82,11 @@ I have a pretty great custom theme you can [download](https://github.com/Echosto
 
 <img width="463" height="175" alt="image" src="https://github.com/user-attachments/assets/6f1cee45-25fa-4734-a9bc-a2cd2e0413ee" />
 
-Or you can be lame and use one if the ones they have posted.  See here: 
-https://ohmyposh.dev/docs/themes
+Or you can be lame and use one if the ones they have posted.  
+See here: https://ohmyposh.dev/docs/themes
 
 With that done one way or another you'll need to run this:
+
 ```powershell
 Unblock-File -Path $PROFILE
 ```
@@ -98,8 +102,12 @@ Once that is all complete you should be able to open a new tab and it should loo
 
 For cmd.exe, which you'll still need from time to time, the following steps are required to enable Unicode and Emoji support.
 
+```
 Run intl.cpl.
 Click the Administrative tab
 Click the Change system locale button.
 Check the "Use Unicode UTF-8 for worldwide language support" checkbox.
 Reboot.
+```
+
+
