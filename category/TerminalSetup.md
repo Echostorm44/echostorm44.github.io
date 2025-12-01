@@ -110,4 +110,10 @@ Check the "Use Unicode UTF-8 for worldwide language support" checkbox.
 Reboot.
 ```
 
+If you want to always have preset tabs open when you launch terminal you can set that up by going to settings and clicking on the Open JSON file button in the lower left corner the editing or adding the optional "startupActions" property like so:
+```json
+"startupActions": "new-tab -p \"PowerShell\" --title \"Backup\" -d C:\\Code\\backup ; new-tab -p \"PowerShell\" --title \"Testing\" -d C:\\Testing",
+```
+
+
 
