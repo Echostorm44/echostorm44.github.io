@@ -48,5 +48,6 @@ _config.dev.yml
 .vscode
 *.gem
 /.vs/EchoBlog/FileContentIndex
-/.vs/EchoBlog/CopilotIndices
+/.vs/EchoBlog/CopilotIndices/*
 /.vs
+/.vs/v17/*
