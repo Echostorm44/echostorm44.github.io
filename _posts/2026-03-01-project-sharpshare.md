@@ -25,7 +25,7 @@ The process is simple.
 
 The [SharpShare.zip](https://github.com/Echostorm44/SharpShare/releases/download/v1.0/SharpShare.zip) file in Releases can simply be unzipped somewhere and run as a portable program, it has no requirements and there is no installer.
 
-![image](https://private-user-images.githubusercontent.com/107306362/556958269-572b1ddc-edb7-4b39-bdba-817c18f0bcb6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0NzY0MTksIm5iZiI6MTc3MjQ3NjExOSwicGF0aCI6Ii8xMDczMDYzNjIvNTU2OTU4MjY5LTU3MmIxZGRjLWVkYjctNGIzOS1iZGJhLTgxN2MxOGYwYmNiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwMlQxODI4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MzY0MWI5NjNiNGFmYWZlMTRiNjg2MDVlZDNmMWRhNzU4YmI4ZTkxYTNkMTM1YjYyOTg1OTgzODkyZWZjMzNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7Q1r_szFjAobzJYrOznuriQ-1QTSo6FxHpadeU7v6Fw)
+<img width="1054" height="804" alt="image" src="https://github.com/user-attachments/assets/394f5bc5-ca86-4cd4-9bbf-adc8f2a6c71e" />
 
 Security is fully detailed in [Security.md](https://github.com/Echostorm44/SharpShare/blob/master/Security.md)
 ## The Short Version
