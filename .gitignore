@@ -51,3 +51,4 @@ _config.dev.yml
 /.vs/EchoBlog/CopilotIndices/*
 /.vs
 /.vs/v17/*
+/.vs/slnx.sqlite
