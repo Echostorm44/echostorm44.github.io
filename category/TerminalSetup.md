@@ -34,7 +34,9 @@ ok now lets install oh my posh via winget
 
 <img width="539" height="159" alt="image" src="https://github.com/user-attachments/assets/8229dc9e-a296-4c3e-b330-104838ae46ff" />
 
-Once that is done we can use it to install a special font, sometimes called a nerd font, which I hate but it is what it is.  I think FiraCode is a pretty good choice but you can obviously download a bunch and see what works best for you.
+Once that is done we can use it to install a special font, sometimes called a nerd font, which I hate but it is what it is.  I think Caskadia Code, JetBrains Mono are good but Maple Mono is a pretty good choice but you can obviously download a bunch and see what works best for you.
+You can download Maple from here directly, You want the NF version, I go for No-Ligature but you do you.
+https://github.com/subframe7536/maple-font/releases
 
 ```oh-my-posh font install```
 
@@ -50,7 +52,7 @@ Then on the left click on Powershell and then on the right click on Appearance.
 
 <img width="778" height="529" alt="image" src="https://github.com/user-attachments/assets/6e51d393-63c9-414e-ab03-7dd474b57c73" />
 
-We want to set the color scheme to One Half Dark, set the font face to FiraCode Nerd Font Mono and kick the font size up a bit.
+We want to set the color scheme to One Half Dark, set the font face to Maple Mono and kick the font size up a bit.
 
 <img width="792" height="642" alt="image" src="https://github.com/user-attachments/assets/fbe6cb70-d9a7-4833-9fda-46b3612d09d3" />
 
